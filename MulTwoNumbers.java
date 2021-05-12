@@ -5,6 +5,6 @@ public class MulTwoNumbers {
       int num1 = 5, num2 = 15, res;
       res = num2 * num1;
 
-      System.out.println("Diff of these numbers: " +res);
+      System.out.println("Multiplication of these numbers: " +res);
    }
 }
